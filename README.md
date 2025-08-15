@@ -3,8 +3,8 @@
 Une application e-commerce complète développée spécialement pour le marché algérien, avec support du paiement à la livraison (COD) et interface en français.
 
 تم التطوير من طرف **Rezki-dev**
-حلول تجارة إلكترونية حديثة ومتكاملة موجهة للسوق الجزائري 🇩🇿
-واجهة مستخدم عربية وفرنسية مع دعم الدفع عند التسليم.
+متجر تجارة إلكترونية حديثة ومتكاملة موجهة للسوق الجزائري 🇩🇿
+واجهة مستخدم فرنسية مع دعم الدفع عند التسليم.
 
 ## 🚀 Fonctionnalités / الميزات
 
